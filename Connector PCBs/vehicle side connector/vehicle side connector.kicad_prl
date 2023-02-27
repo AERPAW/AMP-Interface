@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 36,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -10,7 +10,7 @@
       "pads": 0.6700000166893005,
       "tracks": 0.8100000023841858,
       "vias": 0.8100000023841858,
-      "zones": 0.699999988079071
+      "zones": 0.550000011920929
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
