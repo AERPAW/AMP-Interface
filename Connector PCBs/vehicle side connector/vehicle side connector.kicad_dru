@@ -1,0 +1,6 @@
+(version 1)
+(rule 4oz
+   (layer outer)
+   (constraint clearance (min 13mil))
+   (constraint track_width (min 13mil))
+)
